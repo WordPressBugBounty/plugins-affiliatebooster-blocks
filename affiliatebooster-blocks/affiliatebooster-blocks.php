@@ -3,8 +3,8 @@
  * Plugin Name: Affiliate Booster - Pros & Cons, Notice, and CTA Blocks for Affiliates
  * Plugin URI: https://wordpress.org/plugins/affiliatebooster-plugin/
  * Description: #1 affiliate plugin to increase your sales.
- * Version: 3.0.9
- * Author: Kulwant Nagi
+ * Version: 3.1.0
+ * Author: Jitendra Vaswani, Vashishtha Kapoor
  * Contributors: Affiliate Booster
  * Author URI: https://www.affiliatebooster.com/
  * License: GPL2

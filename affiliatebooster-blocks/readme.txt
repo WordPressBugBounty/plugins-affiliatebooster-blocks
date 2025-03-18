@@ -4,7 +4,7 @@ Tags: gutenberg, affiliate, affiliate plugin, pros and cons
 Requires at least: 6.0+
 Tested up to: 6.6.1
 Requires PHP: 7.0
-Stable tag: 3.0.9
+Stable tag: 3.1.0
 License: GPL2
 License URI: http://www.gnu.org/licenses/gpl-2.0.txt
 
@@ -37,10 +37,12 @@ Step 2: Upload affiliatebooster-blocks.zip in your dashboard.
 Step 3: Click Activate
 
 == Changelog ==
+= 3.1.0 =
+* Updated: Ownership Changed.
+
 = 3.0.9 =
 * Fixed: List items issue in all blocks
 
-== Changelog ==
 = 3.0.8 =
 * Fixed: Gutenbger deprecated component Removed
 * Fixed: Issues with list content
