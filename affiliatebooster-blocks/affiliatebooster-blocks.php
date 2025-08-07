@@ -1,9 +1,9 @@
 <?php
 /**
- * Plugin Name: Affiliate Booster - Pros & Cons, Notice, and CTA Blocks for Affiliates
+ * Plugin Name: AffiliatePages - Pros & Cons, Notice, and CTA Blocks for Affiliates
  * Plugin URI: https://wordpress.org/plugins/affiliatebooster-plugin/
  * Description: #1 affiliate plugin to increase your sales.
- * Version: 3.1.0
+ * Version: 3.1.1
  * Author: Jitendra Vaswani, Vashishtha Kapoor
  * Contributors: Affiliate Booster
  * Author URI: https://www.affiliatebooster.com/
@@ -134,8 +134,8 @@ add_action( 'admin_init', 'affiliate_booster_gutenberg_redirect' );
 function affiliate_booster_getting_started_menu() {
 
 	add_menu_page(
-		__( 'Affiliate Booster', 'affiliatebooster-blocks' ),
-		__( 'Affiliate Booster', 'affiliatebooster-blocks' ),
+		__( 'AffiliatePages', 'affiliatebooster-blocks' ),
+		__( 'AffiliatePages', 'affiliatebooster-blocks' ),
 		'manage_options',
 		'affiliate_booster',
 		'affiliate_booster_welcome_page',
@@ -164,7 +164,7 @@ add_filter( 'block_categories_all', function( $categories, $post ) {
 		array(
 			array(
 				'slug' => 'affiliate-booster',
-				'title' => __( 'Affiliate Booster', 'affiliate-booster' ),
+				'title' => __( 'AffiliatePages', 'affiliate-booster' ),
 			),
 		)
 	);
@@ -174,7 +174,7 @@ add_filter( 'block_categories_all', function( $categories, $post ) {
 function affiliate_booster_add_action_links( $links ) {
 
 	
-	$get_pro = '<a title="' . esc_html__( 'Get AffiliateBooster Pro', 'affiliate-booster' ) .'" href="'. esc_url( "https://www.affiliatebooster.com/" ) .'" style="font-weight:700; color: #1da867;" target="_blank">' . esc_html__( 'Get AffiliateBooster Pro', 'affiliate-booster' ) . '</a>';
+	$get_pro = '<a title="' . esc_html__( 'Get AffiliatePages Pro', 'affiliate-booster' ) .'" href="'. esc_url( "https://www.affiliatebooster.com/" ) .'" style="font-weight:700; color: #1da867;" target="_blank">' . esc_html__( 'Get AffiliatePages Pro', 'affiliate-booster' ) . '</a>';
 	array_unshift( $links, $get_pro );
 	
 

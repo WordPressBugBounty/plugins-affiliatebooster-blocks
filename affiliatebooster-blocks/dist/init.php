@@ -21,7 +21,7 @@ if (!defined('ABSPATH')) {
  */
 function affiliate_booster_fail_php_version() {
     /* translators: %s: PHP version */
-    $message = sprintf(esc_html__('Affiliate Booster for Gutenberg requires PHP version %s+, plugin is currently NOT RUNNING.', AFB_DOMAIN), '5.6');
+    $message = sprintf(esc_html__('AffiliatePages for Gutenberg requires PHP version %s+, plugin is currently NOT RUNNING.', AFB_DOMAIN), '5.6');
     $html_message = sprintf('<div class="error">%s</div>', wpautop($message));
     echo wp_kses_post($html_message);
 }
@@ -170,7 +170,7 @@ function affiliate_register_category( $categories, $post ) {
         $categories, array(
             array(
                 'slug' => 'affiliate-booster',
-                'title' => __('Affiliate Booster', AFB_DOMAIN),
+                'title' => __('AffiliatePages', AFB_DOMAIN),
             ),
         )
     );

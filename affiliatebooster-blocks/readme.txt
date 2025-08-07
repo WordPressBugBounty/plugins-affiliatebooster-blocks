@@ -1,19 +1,19 @@
-=== Affiliate Booster - Pros & Cons, Notice, and CTA Blocks for Affiliates ===
+=== AffiliatePages - Pros & Cons, Notice, and CTA Blocks for Affiliates ===
 Contributors: affiliatebooster
 Tags: gutenberg, affiliate, affiliate plugin, pros and cons
 Requires at least: 6.0+
 Tested up to: 6.6.1
 Requires PHP: 7.0
-Stable tag: 3.1.0
+Stable tag: 3.1.1
 License: GPL2
 License URI: http://www.gnu.org/licenses/gpl-2.0.txt
 
 Boost sales with #1 Affiliate Plugin - elevate CTR with sleek Pros & Cons, Notices, Coupons, Columns, Lists, and CTA Blocks.
 
 == Description ==
-<p>Affiliate Booster is a Gutenberg plugin that gives you the functionality to add conversion-optimized elements in your blog posts. Increase your CTR and improve your sales by using this plugin. Professionally designed Pros and Cons block, notice block, notification block, call to action, and buttons with gradients to have more CTR in your affiliate blog posts.</p>
-<p>Simply pick pre-designed blocks from the AffiliateBooster that speed up the process of affiliate website building with easy-to-use settings and customizations.</p>
-<p>With the AffiliateBooster Blocks, we took the hassle out of the affiliate website building process. It gives you a number of unique and creative blocks for Gutenberg that help you build and design pages or posts without a single line of code.</p>
+<p>AffiliatePages is a Gutenberg plugin that gives you the functionality to add conversion-optimized elements in your blog posts. Increase your CTR and improve your sales by using this plugin. Professionally designed Pros and Cons block, notice block, notification block, call to action, and buttons with gradients to have more CTR in your affiliate blog posts.</p>
+<p>Simply pick pre-designed blocks from AffiliatePages that speed up the process of affiliate website building with easy-to-use settings and customizations.</p>
+<p>With the AffiliatePages Blocks, we took the hassle out of the affiliate website building process. It gives you a number of unique and creative blocks for Gutenberg that help you build and design pages or posts without a single line of code.</p>
 <p><strong>This plugin provides 11 blocks.</strong></p>
 <ul>
     <li><strong><a href="https://www.affiliatebooster.com/button-block/">AB Button</a> - Add professional looking buttons in your affiliate articles to get more CTR.</strong></li>
@@ -32,11 +32,16 @@ Boost sales with #1 Affiliate Plugin - elevate CTR with sleek Pros & Cons, Notic
  
 
 == Installation ==
-Step 1: Download Affiliate Booster Plugin from your dashboard.
+Step 1: Download AffiliatePages Plugin from your dashboard.
 Step 2: Upload affiliatebooster-blocks.zip in your dashboard.
 Step 3: Click Activate
 
 == Changelog ==
+= 3.1.1 =
+* Updated: Rebranded to AffiliatePages while maintaining backward compatibility
+* Updated: All user-facing text now shows AffiliatePages
+* Note: Technical identifiers remain unchanged for compatibility
+
 = 3.1.0 =
 * Updated: Ownership Changed.
 

@@ -1,6 +1,6 @@
 <?php 
 /**
- * AFFILIATE BOOSTER WELCOME PAGE.
+ * AFFILIATEPAGES WELCOME PAGE.
  *
  * @package AFFILIATE
  */
@@ -10,13 +10,13 @@ if ( ! defined( 'ABSPATH' ) ) {
 ?>  
 <div class="gutenberg-free-container">
 	<div class="top-banner-block" style="background-image: url('<?php echo AFB_URL.'/assets/images/top-banner-blog.png'; ?>');">
-		<img src="<?php echo AFB_URL.'/assets/images/logo.png'; ?>" alt="Affiliate Booster">		
+		<img src="<?php echo AFB_URL.'/assets/images/logo.png'; ?>" alt="AffiliatePages">		
 	</div>
 	<div class="tab-block" style="margin-top: 0;">
 		<a href="https://www.affiliatebooster.com/#price" class="grdiant-btn1" target="_blank">Buy Now</a> 
 		<ul class="custon-tab-list" style="background: #002c51;margin: 0;padding-left: 46px; width:100%;">
 			<li class="custon-tab-li">
-				<a class="custon-tab-link tab active" data-id="home" href="javascript:;">Affiliate Booster</a>
+				<a class="custon-tab-link tab active" data-id="home" href="javascript:;">AffiliatePages</a>
 			</li>	
 			<li class="custon-tab-li">
 				<a class="custon-tab-link tab" data-id="home" href="options-general.php?page=affiliate_booster_blocks">Enable/Disable Blocks</a>
@@ -34,8 +34,8 @@ if ( ! defined( 'ABSPATH' ) ) {
 				<div class="custom-row">
 					<div class="custom-col-md-8">
 						<div class="white-brdr-box left-side-content">
-							<h3>Welcome to Affiliate Booster</h3>
-							<p>Welcome to Affiliate Booster Plugin. This plugin has been developed to help affiliates to add pre-made designs in their blog posts to increase CTR and ultimately get more sales. Enjoy our 6 free blocks and check our premium plugin if you want to add more designs in your blog posts.</p>
+							<h3>Welcome to AffiliatePages</h3>
+							<p>Welcome to AffiliatePages Plugin. This plugin has been developed to help affiliates to add pre-made designs in their blog posts to increase CTR and ultimately get more sales. Enjoy our 6 free blocks and check our premium plugin if you want to add more designs in your blog posts.</p>
 						</div>
 						<div class="white-brdr-box left-side-content">
 							<h3>Free Blocks Available</h3>				
@@ -280,9 +280,9 @@ if ( ! defined( 'ABSPATH' ) ) {
 								<div class="custom-col-md-8">
 									<div class="free-blog-box" style="padding: 101px 0;min-height: auto;">										
 										<div class="free-blog-service-title">
-											Get 25+ Pre-Made <br>Gutenberg Blocks for Affiliates
+											Get AI-Generated <br>Gutenberg Blocks for Affiliates
 										</div>
-										<a href="https://www.affiliatebooster.com/#price" class="grdiant-btn" target="_blank" style="color: #fff; width: 50%;">Buy Now</a>
+										<a href="https://www.affiliatepages.com/" class="grdiant-btn" target="_blank" style="color: #fff; width: 50%;">Buy Now</a>
 									</div>
 								</div>
 							</div>
@@ -291,7 +291,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 					<div class="custom-col-md-4">
 						<div class="white-brdr-box right-side-content">
 							<h3>Premium Blocks</h3>
-							<p>25+ Pre-Made Gutenberg Blocks for Affiliates</p>
+							<p>25+ Pre-Made AI-Generated Gutenberg Blocks for Affiliates</p>
 							<ul>
 								<li> <span class="icon-bg"><img src="<?php echo AFB_URL.'/assets/images/list-check.png'; ?>"></span> Conclusion Block</li>
 								<li> <span class="icon-bg"><img src="<?php echo AFB_URL.'/assets/images/list-check.png'; ?>"></span> Coupon Block</li>
@@ -311,13 +311,13 @@ if ( ! defined( 'ABSPATH' ) ) {
 								<li> <span class="icon-bg"><img src="<?php echo AFB_URL.'/assets/images/list-check.png'; ?>"></span> 1 Year of Updates</li>
 								<li> <span class="icon-bg"><img src="<?php echo AFB_URL.'/assets/images/list-check.png'; ?>"></span> 1 Year of Support</li>
 							</ul>
-							<a href="https://www.affiliatebooster.com/#price" class="grdiant-btn" target="_blank">Get Affiliate Booster Premium</a>
+							<a href="https://www.affiliatepages.com/" class="grdiant-btn" target="_blank">Get AffiliatePages Premium</a>
 							<a href="https://www.affiliatebooster.com/blog/" class="link-btn" target="_blank">Learn More <i class="fas fa-arrow-right"></i></a>
 						</div>
 
 						<div class="white-brdr-box right-side-content">
 							<h3>Telegram Support Channel</h3>
-							<p>Join our telegram support channel to get instant replies from our support team and meet other top affiliates using Affiliate Booster plugin.</p>
+							<p>Join our telegram support channel to get instant replies from our support team and meet other top affiliates using AffiliatePages plugin.</p>
 							<a href="https://t.me/+V_CQ1j5v7EhZ2Slb" class="grdiant-btn" target="_blank">Join Telegram Channel</a> 
 						</div>
 					</div>
@@ -331,7 +331,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 							<p>Note: This is a Gutenberg plugin so this is going to work only and only if you are using Gutenberg editor. This would not work with Classic Editor.</p>
 							<p><strong>Step 1:</strong> Add a new post/page or open any existing post/page.</p>
 							<p><strong>Step 2:</strong> Click on the + button inside your Gutenberg editor to add new blocks.</p>
-							<p><strong>Step 3:</strong> Find Affiliate Booster Blocks and pick your desired block in your post/page.</p>
+							<p><strong>Step 3:</strong> Find AffiliatePages Blocks and pick your desired block in your post/page.</p>
 							<p><strong>Step 4:</strong> Add the block and check settings at the right sidebar.</p>
 							<p><strong>Step 5:</strong> Edit the block as per your needs.</p>
 							<p>and Done.</p>
